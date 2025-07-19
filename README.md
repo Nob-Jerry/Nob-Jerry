@@ -24,8 +24,8 @@ Welcome to my GitHub! I'm a passionate and self-driven software engineer who lov
 ## 📫 Get in Touch
 
 - Email: trantuan88261@gmail.com
-- LinkedIn: *(add your LinkedIn link here if available)*
-- Portfolio: *(add link if you have a personal website or portfolio)*
+- LinkedIn: 
+- Portfolio: 
 
 ---
 
