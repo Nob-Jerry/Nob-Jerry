@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 I'm Jerry!
 
-<!--
-**Nob-Jerry/Nob-Jerry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate and self-driven software engineer who loves building scalable, high-performance applications. With strong expertise in both backend and frontend technologies, I enjoy creating elegant solutions to complex problems.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔹 Backend
+- **Java** (Spring Boot, JPA, MyBatis)
+- **Databases**: PostgreSQL, MariaDB, Oracle
+- **ORMs & Tools**: Hibernate, Flyway, Liquibase
+
+### 🔹 Frontend
+- **JavaScript & TypeScript**
+- **Frameworks**: ReactJS, VueJS
+- **Styling**: Tailwind CSS
+
+## 💼 What I Do
+
+- Design and develop RESTful APIs and microservices using **Spring Boot**
+- Build responsive and modern UIs with **React** and **Vue**
+- Optimize SQL queries and schema design for **PostgreSQL**, **MariaDB**, and **Oracle**
+- Apply best practices for clean architecture, code quality, and maintainability
+
+## 📫 Get in Touch
+
+- Email: trantuan88261@gmail.com
+- LinkedIn: *(add your LinkedIn link here if available)*
+- Portfolio: *(add link if you have a personal website or portfolio)*
+
+---
+
+Thanks for stopping by! 🚀
