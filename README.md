@@ -6,19 +6,19 @@ Welcome to my GitHub! I'm a passionate and self-driven software engineer who lov
 
 ### 🔹 Backend
 - **Java** (Spring Boot, JPA, MyBatis)
-- **Databases**: PostgreSQL, MariaDB, Oracle
+- **Databases**: PostgreSQL, MariaDB, Oracle, MySQL
 - **ORMs & Tools**: Hibernate, Flyway, Liquibase
 
 ### 🔹 Frontend
 - **JavaScript & TypeScript**
 - **Frameworks**: ReactJS, VueJS
-- **Styling**: Tailwind CSS
+- **Styling**: HTML, CSS, JS, Tailwind CSS, Bootstrap
 
 ## 💼 What I Do
 
 - Design and develop RESTful APIs and microservices using **Spring Boot**
 - Build responsive and modern UIs with **React** and **Vue**
-- Optimize SQL queries and schema design for **PostgreSQL**, **MariaDB**, and **Oracle**
+- Optimize SQL queries and schema design for **PostgreSQL**, **MariaDB**, **MySQL** and **Oracle**
 - Apply best practices for clean architecture, code quality, and maintainability
 
 ## 📫 Get in Touch
@@ -26,7 +26,5 @@ Welcome to my GitHub! I'm a passionate and self-driven software engineer who lov
 - Email: trantuan88261@gmail.com
 - LinkedIn: 
 - Portfolio: 
-
 ---
 
-Thanks for stopping by! 🚀
